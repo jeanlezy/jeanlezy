@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="<img width="600" height="260" alt="matrix_rain" src="https://github.com/user-attachments/assets/0731019b-bc2e-43ac-8cb1-f9ff6554fa41" />
+<img width="600" height="260" alt="matrix_rain" src="https://github.com/user-attachments/assets/0731019b-bc2e-43ac-8cb1-f9ff6554fa41" />
 
 </div>
 
