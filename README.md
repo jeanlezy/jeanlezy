@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="1000" height="220" alt="matrix_rain" src="https://github.com/user-attachments/assets/8c2399bd-cf9a-4de0-b997-c253b79df32b" />
+<img width="1000" height="220" alt="matrix_rain (1)" src="https://github.com/user-attachments/assets/9429ada2-96f0-480c-a582-2f87a772ec6c" />
 
 </div>
 
@@ -41,7 +41,7 @@ connected:    Since 1993 — still haven't taken the other pill
 
 ## `~$ ./scan_construct.sh --deep`
 
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=000000&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=00FF41&sideNums=00FF41&dates=006400" alt="GitHub Streak" width="60%" /> </div> <br>
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeanlezy&theme=dark&hide_border=true&background=000000&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=00FF41&sideNums=00FF41&dates=006400" alt="GitHub Streak" width="60%" /> </div> <br>
 </div>
 
 <br>
@@ -61,7 +61,7 @@ connected:    Since 1993 — still haven't taken the other pill
 <div align="center">
 
 <a href="https://linkedin.com/in/jeanlezy">
-<img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=000000" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn" />
 <a href="mailto:jeanlezy@gmail.com">
 <img src="https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=000000" alt="Email" />
 </a>
