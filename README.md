@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="600" height="260" alt="matrix_rain" src="https://github.com/user-attachments/assets/0731019b-bc2e-43ac-8cb1-f9ff6554fa41" />
+<img width="640" height="220" alt="matrix_rain (2)" src="https://github.com/user-attachments/assets/c1f8ea42-658f-4a9a-8e69-bbb4a88f03d1" />
 
 </div>
 
@@ -44,10 +44,10 @@ connected:    Since 1993 — still haven't taken the other pill
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=00FF41&border_color=00FF41" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00FF41&border_color=00FF41" alt="Top Langs" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api?username=jeanlezyE&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=00FF41&border_color=00FF41" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanlezy&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00FF41&border_color=00FF41" alt="Top Langs" width="40%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=000000&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=00FF41&sideNums=00FF41&dates=006400" alt="GitHub Streak" width="60%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jeanlezy&theme=dark&hide_border=true&background=000000&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=00FF41&sideNums=00FF41&dates=006400" alt="GitHub Streak" width="60%" />
 
 </div>
 
@@ -91,8 +91,6 @@ connected:    Since 1993 — still haven't taken the other pill
 <div align="center">
 
 `"There is no spoon."`
-
-<img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/matrix.svg" width="100%" alt="digital rain" />
 
 <img src="https://komarev.com/ghpvc/?username=jeanlezy&label=AGENTS+WATCHING&color=00FF41&style=flat-square&labelColor=000000" alt="Visitor Count" />
 
