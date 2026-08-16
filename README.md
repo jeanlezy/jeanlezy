@@ -6,7 +6,6 @@
 
 <br>
 
-<div align="center">
 ## `~$ whoami`
 
 ```yaml
@@ -20,7 +19,7 @@ I'm transitioning into the world of software engineering, focusing on backend de
 location:     Vila Nova de Gaia, Porto, Portugal
 connected:    Since 1993 — still haven't taken the other pill
 ```
-</div>
+
 <br>
 
 ## `~$ ls -la /skills`
