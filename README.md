@@ -8,18 +8,19 @@
 
 ## `~$ whoami`
 
-```yaml
-  > Software Developer in progress
-  > Backend enthusiast
-  > Cybersecurity explorer
-  > Linux enjoyer
-  > Currently learning how the Matrix works...
+<pre>
+&gt; Software Developer in progress
+&gt; Backend enthusiast
+&gt; Cybersecurity explorer
+&gt; Linux enjoyer
+&gt; Currently learning how the Matrix works...
 
 I'm transitioning into the world of software engineering, focusing on
-backend development, systems, cybersecurity and artificial intelligence. 
+backend development, systems, cybersecurity and artificial intelligence.
 
 connected:    Since 1993 — still haven't taken the other pill
-```
+</pre>
+
 <br>
 
 ## `~$ ls -la /skills`
