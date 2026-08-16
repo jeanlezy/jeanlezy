@@ -54,7 +54,9 @@ connected:    Since 1993 — still haven't taken the other pill
 
 <div align="center">
 
-"There is no spoon." — <img src="https://komarev.com/ghpvc/?username=jeanlezy&label=AGENTS+WATCHING&color=00FF41&style=flat-square&labelColor=000000" alt="Visitor Count" />
+`"There is no spoon."` 
+
+<img src="https://komarev.com/ghpvc/?username=jeanlezy&label=AGENTS+WATCHING&color=00FF41&style=flat-square&labelColor=000000" alt="Visitor Count" />
 
 </div>
 
