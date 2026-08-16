@@ -8,9 +8,14 @@
 
 <div align="center">
 
-`STATUS: ONLINE` &nbsp;|&nbsp; `PILL: RED` &nbsp;|&nbsp; `REALITY: SIMULATED`
+> Software Developer in progress
+> 42 Porto student
+> Backend enthusiast
+> Cybersecurity explorer
+> Linux enjoyer
+> Currently learning how the Matrix works...
 
-</div>
+I'm transitioning into the world of software engineering, focusing on backend development, systems, cybersecurity and artificial intelligence.
 
 
 ## `~$ whoami`
