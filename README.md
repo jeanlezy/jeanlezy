@@ -4,7 +4,6 @@
 
 </div>
 
-<br>
 
 <div align="center">
 
@@ -12,7 +11,6 @@
 
 </div>
 
-<br>
 
 ## `$ whoami`
 
@@ -42,13 +40,7 @@ connected:    Since 1993 — still haven't taken the other pill
 
 ## `> root@nebuchadnezzar:~# ./scan_construct.sh --deep`
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jeanlezyE&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=00FF41&border_color=00FF41" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanlezy&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00FF41&border_color=00FF41" alt="Top Langs" width="40%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jeanlezy&theme=dark&hide_border=true&background=000000&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=00FF41&sideNums=00FF41&dates=006400" alt="GitHub Streak" width="60%" />
-
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=000000&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=00FF41&sideNums=00FF41&dates=006400" alt="GitHub Streak" width="60%" /> </div> <br>
 </div>
 
 <br>
