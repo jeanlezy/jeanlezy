@@ -9,14 +9,13 @@
 ## `~$ whoami`
 
 ```yaml
-identity:     Jeanlezy
   > Software Developer in progress
   > Backend enthusiast
   > Cybersecurity explorer
   > Linux enjoyer
   > Currently learning how the Matrix works...
 I'm transitioning into the world of software engineering, focusing on backend development, systems, cybersecurity and artificial intelligence. 
-location:     Vila Nova de Gaia, Porto, Portugal
+
 connected:    Since 1993 — still haven't taken the other pill
 ```
 
@@ -62,3 +61,8 @@ connected:    Since 1993 — still haven't taken the other pill
 <img src="https://komarev.com/ghpvc/?username=jeanlezy&label=AGENTS+WATCHING&color=00FF41&style=flat-square&labelColor=000000" alt="Visitor Count" />
 
 </div>
+
+<br>
+
+<img width="1000" height="220" alt="matrix_rain_footer" src="https://github.com/user-attachments/assets/519896c8-969b-4b9c-9856-706162db3b7a" />
+
