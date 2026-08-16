@@ -8,15 +8,6 @@
 
 <div align="center">
 
-> Software Developer in progress
-> 42 Porto student
-> Backend enthusiast
-> Cybersecurity explorer
-> Linux enjoyer
-> Currently learning how the Matrix works...
-
-I'm transitioning into the world of software engineering, focusing on backend development, systems, cybersecurity and artificial intelligence.
-
 
 ## `~$ whoami`
 
