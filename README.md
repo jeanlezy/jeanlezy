@@ -1,21 +1,10 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/matrix.svg" width="100%" alt="digital rain" />
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=00FF41&background=000000&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Wake+up%2C+Neo...;The+Matrix+has+you.;Follow+the+white+rabbit.;Knock%2C+knock." alt="Typing SVG" />
 
 </div>
 
 <br>
-
-```ansi
-[0;32m██████╗ [0m[1;32m███████╗[0m[0;32m██████╗ [0m
-[0;32m██╔══██╗[0m[1;32m██╔════╝[0m[0;32m██╔══██╗[0m
-[0;32m██████╔╝[0m[1;32m█████╗  [0m[0;32m██║  ██║[0m
-[0;32m██╔══██╗[0m[1;32m██╔══╝  [0m[0;32m██║  ██║[0m
-[0;32m██║  ██║[0m[1;32m███████╗[0m[0;32m██████╔╝[0m
-[0;32m╚═╝  ╚═╝[0m[1;32m╚══════╝[0m[0;32m╚═════╝ [0m
-```
 
 <div align="center">
 
@@ -27,26 +16,25 @@
 
 <br>
 
-## `> root@nebuchadnezzar:~# whoami`
+## `# whoami`
 
 ```yaml
 identity:     Jeanlezy
+directive:    Software Developer Junior
 location:     Vila Nova de Gaia, Porto, Portugal
 uptime:       since 1993 — still haven't taken the other pill
 ```
 
 <br>
 
-## `> root@nebuchadnezzar:~# ls -la /skills`
+## `> # ls -la /skills`
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker&logoColor=00FF41&labelColor=000000" />
+<img src="https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=c&logoColor=00FF41&labelColor=000000" />
+<img src="https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FF41&labelColor=000000" />
+<img src="https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3&logoColor=00FF41&labelColor=000000" />
 <img src="https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF41&labelColor=000000" />
 <img src="https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=00FF41&labelColor=000000" />
 
