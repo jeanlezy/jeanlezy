@@ -9,7 +9,7 @@
 ## `~$ whoami`
 
 <div align="center">
-Software Developer in progress — Backend enthusiast — Cybersecurity explorer — Linux enjoyer
+Software Developer in progress -- Backend enthusiast -- Cybersecurity explorer -- Linux enjoyer
 
 Currently learning how the Matrix works...
 
