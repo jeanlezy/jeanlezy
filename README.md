@@ -18,7 +18,7 @@ I'm transitioning into the world of software engineering, focusing on backend de
 connected:    Since 1993 — still haven't taken the other pill 
 </div>
 
-## `~$ ls -la /skills`
+## `~$ ls -la /techstack`
 
 <div align="center">
 
