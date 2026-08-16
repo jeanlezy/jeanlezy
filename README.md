@@ -57,8 +57,6 @@ connected:    Since 1993 — still haven't taken the other pill
 </div> 
 
 
-<br>
-
 <div align="center">
 
 `"There is no spoon."`
