@@ -6,7 +6,7 @@
 
 <br>
 
-## `~$ whoami`
+# ~$ whoami
 
 <div align="center">
 Software Developer in progress -- Backend & Systems enthusiast -- Cybersecurity explorer
@@ -16,7 +16,7 @@ I'm transitioning into software engineering, focusing on backend development, sy
 connected:    Since 1993 — still haven't taken the other pill 
 </div>
 
-## `~$ ls -la /techstack`
+# ~$ techstack
 
 <div align="center">
 
@@ -35,7 +35,7 @@ connected:    Since 1993 — still haven't taken the other pill
 </div>
 
 
-## `~$ tail -f /var/log/commits.log`
+# ~$ commits.log
 
 <div align="center">
 
@@ -43,7 +43,7 @@ connected:    Since 1993 — still haven't taken the other pill
 
 </div>
 
-## `~$ trace --connection`
+# ~$ -- connection
 
 <div align="center"> 
   <a href="mailto:jeanlezy@gmail.com"> <img src="https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=000000" alt="Email" /> </a>
