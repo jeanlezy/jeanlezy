@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=00FF41&background=000000&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Wake+up%2C+Neo...;The+Matrix+has+you.;Follow+the+white+rabbit.;Knock%2C+knock." alt="Typing SVG" />
+<img src="<img width="600" height="260" alt="matrix_rain" src="https://github.com/user-attachments/assets/0731019b-bc2e-43ac-8cb1-f9ff6554fa41" />
 
 </div>
 
@@ -16,7 +16,7 @@
 
 <br>
 
-## `# whoami`
+## `$ whoami`
 
 ```yaml
 identity:     Jeanlezy
@@ -27,7 +27,7 @@ uptime:       since 1993 — still haven't taken the other pill
 
 <br>
 
-## `> # ls -la /skills`
+## `> $ ls -la /skills`
 
 <div align="center">
 
