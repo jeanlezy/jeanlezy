@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="1000" height="220" alt="matrix_rain (1)" src="https://github.com/user-attachments/assets/9429ada2-96f0-480c-a582-2f87a772ec6c" />
+<img width="1000" height="220" alt="matrix_rain (2)" src="https://github.com/user-attachments/assets/f6d5a7a2-b57c-478c-b6b1-5d6ab93962ad" />
 
 </div>
 
@@ -35,13 +35,6 @@ connected:    Since 1993 — still haven't taken the other pill
 <img src="https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF41&labelColor=000000" />
 <img src="https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=00FF41&labelColor=000000" />
 
-</div>
-
-<br>
-
-## `~$ ./scan_construct.sh --deep`
-
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeanlezy&theme=dark&hide_border=true&background=000000&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=00FF41&sideNums=00FF41&dates=006400" alt="GitHub Streak" width="60%" /> </div> <br>
 </div>
 
 <br>
