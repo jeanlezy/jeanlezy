@@ -14,11 +14,11 @@
   > Cybersecurity explorer
   > Linux enjoyer
   > Currently learning how the Matrix works...
+
 I'm transitioning into the world of software engineering, focusing on backend development, systems, cybersecurity and artificial intelligence. 
 
 connected:    Since 1993 — still haven't taken the other pill
 ```
-
 <br>
 
 ## `~$ ls -la /skills`
