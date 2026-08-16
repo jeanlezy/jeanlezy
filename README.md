@@ -8,16 +8,13 @@
 
 ## `~$ whoami`
 
-Software Developer in progress
-Backend enthusiast
-Cybersecurity explorer
-Linux enjoyer
+Software Developer in progress | Backend enthusiast | Cybersecurity explorer | Linux enjoyer
+
 Currently learning how the Matrix works...
 
-I'm transitioning into the world of software engineering, focusing on
-backend development, systems, cybersecurity and artificial intelligence.
+I'm transitioning into the world of software engineering, focusing on backend development, systems, cybersecurity and artificial intelligence.
 
-connected:    Since 1993 — still haven't taken the other pill
+<center> connected:    Since 1993 — still haven't taken the other pill </center>
 
 <br>
 
