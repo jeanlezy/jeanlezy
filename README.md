@@ -29,7 +29,7 @@ connected:    Since 1993 — still haven't taken the other pill
 <img src="https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=00FF41&labelColor=000000" />
 <img src="https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=c&logoColor=00FF41&labelColor=000000" />
 <img src="https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3&logoColor=Green&labelColor=000000" />
+<img src="https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3&logoColor=00FF41&labelColor=000000" />
 <img src="https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF41&labelColor=000000" />
 <img src="https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=00FF41&labelColor=000000" />
 
