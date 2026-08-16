@@ -6,26 +6,21 @@
 
 <br>
 
-
 <div align="center">
-
-▓▓▓ SYSTEM BREACH DETECTED ▓▓▓
-
-STATUS: ONLINE  |  PILL: RED  |  REALITY: SIMULATED
-
-</div> 
-
-<br>
-
 ## `~$ whoami`
 
 ```yaml
 identity:     Jeanlezy
-directive:    Software Developer Student
+  > Software Developer in progress
+  > Backend enthusiast
+  > Cybersecurity explorer
+  > Linux enjoyer
+  > Currently learning how the Matrix works...
+I'm transitioning into the world of software engineering, focusing on backend development, systems, cybersecurity and artificial intelligence. 
 location:     Vila Nova de Gaia, Porto, Portugal
 connected:    Since 1993 — still haven't taken the other pill
 ```
-
+</div>
 <br>
 
 ## `~$ ls -la /skills`
