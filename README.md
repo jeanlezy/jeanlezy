@@ -53,7 +53,7 @@ connected:    Since 1993 — still haven't taken the other pill
 
 <div align="center"> 
   <a href="mailto:jeanlezy@gmail.com"> <img src="https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=000000" alt="Email" /> </a>
-  <a href="mailto:jeanlezy@gmail.com"> <img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin-white&logoColor=00FF41&labelColor=000000" alt="LinkedIn" /> </a> 
+  <a href="https://linkedin.com/in/jeanlezy"> <img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin-white&logoColor=00FF41&labelColor=000000" alt="LinkedIn" /> </a> 
 </div> 
 
 
