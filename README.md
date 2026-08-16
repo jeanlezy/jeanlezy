@@ -8,11 +8,11 @@
 
 ## `~$ whoami`
 
-> Software Developer in progress
-> Backend enthusiast
-> Cybersecurity explorer
-> Linux enjoyer
-> Currently learning how the Matrix works...
+Software Developer in progress
+Backend enthusiast
+Cybersecurity explorer
+Linux enjoyer
+Currently learning how the Matrix works...
 
 I'm transitioning into the world of software engineering, focusing on
 backend development, systems, cybersecurity and artificial intelligence.
