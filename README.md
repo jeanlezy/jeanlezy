@@ -10,7 +10,7 @@
 
 <div align="center">
 Software Developer in progress -- Backend & Systems enthusiast -- Cybersecurity explorer
-
+<br>
 I'm transitioning into software engineering, focusing on backend development, systems, cybersecurity and AI..
 
 connected:    Since 1993 — still haven't taken the other pill 
