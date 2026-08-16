@@ -8,8 +8,6 @@
 
 <div align="center">
 
-▓▓▓ **SYSTEM BREACH DETECTED** ▓▓▓
-
 `STATUS: ONLINE` &nbsp;|&nbsp; `PILL: RED` &nbsp;|&nbsp; `REALITY: SIMULATED`
 
 </div>
@@ -20,9 +18,9 @@
 
 ```yaml
 identity:     Jeanlezy
-directive:    Software Developer Junior
+directive:    Software Developer Student
 location:     Vila Nova de Gaia, Porto, Portugal
-uptime:       since 1993 — still haven't taken the other pill
+connected:    Since 1993 — still haven't taken the other pill
 ```
 
 <br>
