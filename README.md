@@ -6,8 +6,16 @@
 
 <br>
 
+
 <div align="center">
 
+▓▓▓ SYSTEM BREACH DETECTED ▓▓▓
+
+STATUS: ONLINE  |  PILL: RED  |  REALITY: SIMULATED
+
+</div> 
+
+<br>
 
 ## `~$ whoami`
 
