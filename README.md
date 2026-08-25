@@ -41,7 +41,8 @@ connected:    Since 1993 — still haven't taken the other pill
 
 <div>
 
-<img src="https://raw.githubusercontent.com/jeanlezy/jeanlezy/output/github-contribution-grid-snake.svg" alt="Snake animation" width="95%" />
+<img src="https://streak-stats.demolab.com?user=jeanlezy&theme=react&hide_border=true" alt="GitHub Streak" width="95%" />
+
 
 </div>
 
