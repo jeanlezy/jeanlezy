@@ -38,10 +38,15 @@ connected:    Since 1993 — still haven't taken the other pill
 ## ~$ commits.log
 
 <div align="center">
-
-<div>
-
-<img src="https://img.shields.io/badge/git_log-git_commit--m-000000?style=for-the-badge&logo=git&logoColor=00FF41&labelColor=000000&color=00FF41" alt="Git Log" />
+  <pre style="background-color: #000000; color: #00FF41; padding: 15px; border-radius: 5px; text-align: left; font-family: monospace; border: 1px solid #00FF41;">
+<code>
+$ git log --oneline --graph --decorate
+* <span style="color: #00FF41;">00ff41a</span> (HEAD -> main, origin/main) feat: update README.md profile layout
+* <span style="color: #00FF41;">a1b2c3d</span> docs: add skills and tools badges
+* <span style="color: #00FF41;">db13418</span> Initial commit
+</code>
+  </pre>
+</div>
 
 
 </div>
