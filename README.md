@@ -38,14 +38,7 @@ connected:    Since 1993 — still haven't taken the other pill
 ## ~$ commits.log
 
 <div align="center">
-  <pre style="background-color: #000000; color: #00FF41; padding: 15px; border-radius: 5px; text-align: left; font-family: monospace; border: 1px solid #00FF41;">
-<code>
-$ git log --oneline --graph --decorate
-* <span style="color: #00FF41;">00ff41a</span> (HEAD -> main, origin/main) feat: update README.md profile layout
-* <span style="color: #00FF41;">a1b2c3d</span> docs: add skills and tools badges
-* <span style="color: #00FF41;">db13418</span> Initial commit
-</code>
-  </pre>
+  <img src="https://raw.githubusercontent.com/jeanlezy/jeanlezy/output/github-contribution-grid-snake-matrix.svg" alt="Snake Matrix Commit Log" width="100%" />
 </div>
 
 
