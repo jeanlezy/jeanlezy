@@ -39,7 +39,9 @@ connected:    Since 1993 — still haven't taken the other pill
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jeanlezy&theme=react-dark&bg_color=000000&color=00FF41&line=00FF41&point=ffffff&area=true&area_color=00FF41&hide_border=true" alt="Commit Activity Graph" width="95%" />
+<div>
+
+<img src="https://metrics.lecoq.io/jeanlezy?template=classic&base=activity%2C%20community" alt="Metrics" width="95%" />
 
 </div>
 
