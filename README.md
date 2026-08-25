@@ -41,7 +41,7 @@ connected:    Since 1993 — still haven't taken the other pill
 
 <div>
 
-<img src="https://github-readme-terminal.vercel.app/api?user=jeanlezy&theme=matrix" alt="Commits Terminal" width="95%" />
+<img src="https://github-readme-terminal.vercel.app/api?user=jeanlezy&theme=matrix&v=1" alt="Commits Terminal" width="95%" />
 
 
 </div>
