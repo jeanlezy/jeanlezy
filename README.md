@@ -41,7 +41,7 @@ connected:    Since 1993 — still haven't taken the other pill
 
 <div>
 
-<img src="https://github-readme-terminal.vercel.app/api?user=jeanlezy&theme=matrix&v=1" alt="Commits Terminal" width="95%" />
+<img src="https://img.shields.io/badge/git_log-git_commit--m-000000?style=for-the-badge&logo=git&logoColor=00FF41&labelColor=000000&color=00FF41" alt="Git Log" />
 
 
 </div>
