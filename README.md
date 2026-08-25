@@ -41,7 +41,7 @@ connected:    Since 1993 — still haven't taken the other pill
 
 <div>
 
-<img src="https://streak-stats.demolab.com?user=jeanlezy&theme=react&hide_border=true" alt="GitHub Streak" width="95%" />
+<img src="https://streak-stats.demolab.com?user=jeanlezy&background=000000&currStreakNum=00FF41&sideNums=ffffff&sideLabels=00FF41&fire=00FF41&ring=00FF41&hide_border=true" alt="GitHub Streak" width="95%" />
 
 
 </div>
