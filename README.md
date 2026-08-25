@@ -41,7 +41,7 @@ connected:    Since 1993 — still haven't taken the other pill
 
 <div>
 
-<img src="https://metrics.lecoq.io/jeanlezy?template=classic&base=activity%2C%20community" alt="Metrics" width="95%" />
+<img src="https://github-readme-stats.vercel.app/api?username=jeanlezy&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" width="95%" />
 
 </div>
 
