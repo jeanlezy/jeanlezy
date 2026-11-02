@@ -39,7 +39,7 @@ connected:    Since 1993 — still haven't taken the other pill ...
 <div align="center">
 
 <a href="https://github.com/jeanlezy/42_Piscine_Reloaded">
-  <img src="https://drive.google.com/file/d/1Vg9PZjVRVT8tUarvwcspR29xf6BrLFL5/view" alt="Piscine Reloaded - 42 School" width="300" />
+  <img src="https://raw.githubusercontent.com/jeanlezy/jeanlezy/main/piscine-reloaded.png" alt="Piscine Reloaded - 42 School" width="300" />
 </a>
 
 <br>
