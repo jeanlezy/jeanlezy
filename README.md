@@ -34,6 +34,19 @@ connected:    Since 1993 — still haven't taken the other pill ...
 
 </div>
 
+## ~$ projects
+
+<div align="center">
+
+<a href="https://github.com/jeanlezy/42_Piscine_Reloaded">
+  <img src="https://drive.google.com/file/d/1Vg9PZjVRVT8tUarvwcspR29xf6BrLFL5/view" alt="Piscine Reloaded - 42 School" width="300" />
+</a>
+
+<br>
+
+<a href="https://github.com/jeanlezy/42_Piscine_Reloaded"><b>42_Piscine_Reloaded</b></a> — C and Shell exercises from the 42 Porto Piscine Reloaded
+
+</div>
 
 ## ~$ commits.log
 
