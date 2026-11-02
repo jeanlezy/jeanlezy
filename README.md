@@ -44,7 +44,7 @@ connected:    Since 1993 — still haven't taken the other pill ...
 
 <br>
 
-<a href="https://github.com/jeanlezy/42_Piscine_Reloaded"><b>42_Piscine_Reloaded</b></a> — C and Shell exercises from the 42 Porto Piscine Reloaded
+<a href="https://github.com/jeanlezy/42_Piscine_Reloaded">
 
 </div>
 
