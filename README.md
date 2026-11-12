@@ -38,15 +38,15 @@ connected:    Since 1993 — still haven't taken the other pill ...
 
 <div align="center">
 
-<a href="https://github.com/jeanlezy/42_Piscine_Reloaded">
-  <img src="https://raw.githubusercontent.com/jeanlezy/jeanlezy/main/duck_piscine_reload" width="250" />
-</a>
+  <a href="https://github.com/jeanlezy/42_Piscine_Reloaded">
+    <img src="https://raw.githubusercontent.com/jeanlezy/jeanlezy/main/duck_piscine_reload" width="250" />
+  </a>
 
-<div align="center">
+  <a href="https://github.com/jeanlezy/42_libft">
+    <img src="https://raw.githubusercontent.com/jeanlezy/jeanlezy/main/duck_libft" width="250" />
+  </a>
 
-<a href="https://github.com/jeanlezy/42_libft">
-  <img src="https://raw.githubusercontent.com/jeanlezy/jeanlezy/main/duck_libft" width="250" />
-</a>
+</div>
 
 <br>
 
