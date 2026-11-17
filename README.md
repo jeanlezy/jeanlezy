@@ -47,7 +47,7 @@ connected:    Since 1993 — still haven't taken the other pill ...
   </a>
 
    <a href="https://github.com/jeanlezy/42-ft_printf">
-    <img src="https://raw.githubusercontent.com/jeanlezy/jeanlezy/main/duck_printff" width="250" />
+    <img src="https://raw.githubusercontent.com/jeanlezy/jeanlezy/main/duck_printf" width="250" />
   </a>
 
 </div>
