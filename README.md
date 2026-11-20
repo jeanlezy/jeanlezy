@@ -50,6 +50,10 @@ connected:    Since 1993 — still haven't taken the other pill ...
     <img src="https://raw.githubusercontent.com/jeanlezy/jeanlezy/main/duck_printf.png" width="250" />
   </a>
 
+   <a href="https://github.com/jeanlezy/42_get_next_line">
+    <img src="https://raw.githubusercontent.com/jeanlezy/jeanlezy/main/duck_gnl" width="250" />
+  </a>
+
 </div>
 
 <br>
